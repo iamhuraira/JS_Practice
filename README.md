@@ -1,1 +1,1 @@
-#JS_Practice
+#JavaSCript Paractice 
